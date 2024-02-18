@@ -1,0 +1,2 @@
+//quando una compagnia farà una richiesta, prima di andare alla route, passerà per questo middleware
+//darà l'accesso solo se l'ID della compagnia (passato nell'header) corrisponderà a quello preso dal backend motoko
